@@ -1,1 +1,1 @@
-# PredNet_Pytorch
+# PredNet-Pytorch
